@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 -->
-- 🔭 I’m currently studying at University of Technology
+- 🔭 I’m currently studying at University of Information Technology, VNU-HCM
 - 🌱 I’m currently learning C
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
